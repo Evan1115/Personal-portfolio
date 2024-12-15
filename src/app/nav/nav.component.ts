@@ -12,7 +12,7 @@ export class NavComponent implements OnInit {
 
   constructor(private router: Router) {}
   resumeURL =
-    'https://drive.google.com/file/d/1kd9a26PrdtINKe0v0eExTgbLjhKT-gB9/view?usp=share_link';
+    'https://raw.githubusercontent.com/Evan1115/resume/main/resume.pdf';
 
   ngOnInit(): void {}
 
